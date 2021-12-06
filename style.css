@@ -1,0 +1,15 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Header {
+    color: darkcyan;
+    font-size: 2em;
+}
+* {
+    background-color:beige;
+    text-align: center;
+}
+
+.images {
+    max-height: 70vh;
+}
